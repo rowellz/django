@@ -4,6 +4,6 @@ This is Zach's final result after going through the 7 parts of the django tutori
 
 Clone this repo with the command: `git clone https://github.com/rowellz/django-zachrowell`
 
-After clonging the repo, get the django project up and running with: `cd django-zachrowell/mysite` 
+After cloning the repo, get the django project up and running with: `cd django-zachrowell/mysite` 
 
 Then: `python manage.py runserver`
